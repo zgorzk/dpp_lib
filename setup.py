@@ -8,7 +8,7 @@ setup(
     description='An example python package',
     long_description=open('README.md').read(),
     install_requires=['requests'],
-    url='https://github.com/zgorzk/dpp_lib.git',
+    url='https://github.com/zgorzk/dpp_lib',
     author='Dominik Kinastowski',
     author_email='242081@student.pwr.edu.pl'
 )
