@@ -6,4 +6,4 @@ class myClass:
         print(a)
 
     def printTestText(self):
-        print("Test text")
+        print("Test text v2")
