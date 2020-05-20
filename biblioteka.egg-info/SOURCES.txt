@@ -1,0 +1,15 @@
+README.md
+setup.py
+api_helper/__init__.py
+api_helper/apiHelper.py
+api_helper/otherFile.py
+api_helper/otherFile2.py
+biblioteka.egg-info/PKG-INFO
+biblioteka.egg-info/SOURCES.txt
+biblioteka.egg-info/dependency_links.txt
+biblioteka.egg-info/requires.txt
+biblioteka.egg-info/top_level.txt
+bibtex_helper/File.py
+bibtex_helper/File2.py
+bibtex_helper/__init__.py
+bibtex_helper/bibtexHelper.py
